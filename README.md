@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🔧 Minecraft Server Dev | Full-Stack Developer 🌍  
 
-<!--
-**NertyNT/NertyNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Создаю **уникальные** игровые миры и **бескомпромиссные** серверные решения!  
+Погружаюсь в **глубины кода** и разворачиваю **серверы** на уровне мастерства.  
+Мой путь — это симбиоз **креатива и технологий**.  
+Здесь — чтобы строить и оптимизировать, от мира Minecraft до **корпоративных серверов**! 🚀
 
-Here are some ideas to get you started:
+## 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Minecraft server development
+- Full-stack development
+- Optimization and scaling
+- Creative problem-solving
+- Server infrastructure
+
+_В мире кода нет границ, и я тут, чтобы их ломать!_
